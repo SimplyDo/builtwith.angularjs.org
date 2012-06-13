@@ -100,7 +100,7 @@
     {
       "name": "Balance Projector",
       "thumb": "balance-projector/thumb.png",
-      "desc": "Addressing a problem that is typically solved with a spreadsheet Balance Projector can provide quick insights into your immediate financial future. The real time interface updates on every change and makes somewhat abstract numbers very tangible.",
+      "desc": "Balance Projector can provide quick insights into your immediate financial future. The real time interface updates on every change and makes somewhat abstract numbers very tangible.",
       "url": "http://simplydo.com/projector",
       "src": "https://github.com/SimplyDo/projector",
       "submitter": "kohlhofer",
