@@ -105,11 +105,9 @@
       "src": "https://github.com/SimplyDo/projector",
       "submitter": "kohlhofer",
       "submissionDate": "2012-06-14",
-      "tags": [
-        "Exploration", 
+      "tags": [ 
         "Production",
-        "Tool", 
-        "Finance",
+        "Tool",
         "Local Storage",
         "No jQuery",
         "Open Source"
@@ -118,13 +116,12 @@
     {
       "name": "Cryptography Project",
       "thumb": "cryptography-project/thumb.png",
-      "desc": "Encrypt and decrypt any text right in your browser. You can also generate random key phrases from the list of 39,000 English words. Nothing is ever sent to a server!",
+      "desc": "Encrypt and decrypt any text right in your browser. You can also generate random key phrases from the list of 39,000 English words.",
       "url": "http://simplydo.com/cryptography",
       "src": "https://github.com/SimplyDo/cryptography",
       "submitter": "kohlhofer",
       "submissionDate": "2012-06-14",
       "tags": [
-        "Exploration",
         "Production",
         "Tool",
         "Cryptography",
